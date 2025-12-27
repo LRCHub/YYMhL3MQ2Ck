@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "OOPARTS",
+  "base_artist": "Hitsujibungaku",
+  "createdAt": "2025-12-27T14:53:15.249929Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ooparts - JP (NEO Mix)",
+      "artist": "Takeharu Ishimoto",
+      "has_synced": false,
+      "path": "select/01_Ooparts_-_JP_(NEO_Mix)_Takeharu_Ishimoto.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ooparts (Give Me a Chance)",
+      "artist": "石元丈晴",
+      "has_synced": false,
+      "path": "select/02_Ooparts_(Give_Me_a_Chance)_石元丈晴.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "OOPARTS",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/03_OOPARTS_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ooparts",
+      "artist": "石元 丈晴",
+      "has_synced": false,
+      "path": "select/04_Ooparts_石元_丈晴.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "OOPARTS",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/05_OOPARTS_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OOPARTS",
+      "artist": "BAND-MAID",
+      "has_synced": true,
+      "path": "select/06_OOPARTS_BAND-MAID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ooparts - JP (NEO Mix)",
+      "artist": "石元 丈晴",
+      "has_synced": false,
+      "path": "select/07_Ooparts_-_JP_(NEO_Mix)_石元_丈晴.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ooparts",
+      "artist": "Takeharu Ishimoto",
+      "has_synced": false,
+      "path": "select/08_Ooparts_Takeharu_Ishimoto.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ooparts - JP",
+      "artist": "Takeharu Ishimoto",
+      "has_synced": false,
+      "path": "select/09_Ooparts_-_JP_Takeharu_Ishimoto.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ooparts - JP",
+      "artist": "Ishimoto, Takeharu",
+      "has_synced": false,
+      "path": "select/10_Ooparts_-_JP_Ishimoto,_Takeharu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ooparts",
+      "artist": "Ishimoto, Takeharu",
+      "has_synced": false,
+      "path": "select/11_Ooparts_Ishimoto,_Takeharu.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ooparts - JP (NEO mix)",
+      "artist": "Ishimoto, Takeharu",
+      "has_synced": false,
+      "path": "select/12_Ooparts_-_JP_(NEO_mix)_Ishimoto,_Takeharu.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "OOPARTS (Tour 2023 if i were an angel,)",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/13_OOPARTS_(Tour_2023_if_i_were_an_angel,)_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "OOPARTS",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/14_OOPARTS_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "OOPARTS",
+      "artist": "MYNAME",
+      "has_synced": false,
+      "path": "select/15_OOPARTS_MYNAME.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ohayo OOPARTS",
+      "artist": "Soutaiseiriron",
+      "has_synced": true,
+      "path": "select/16_Ohayo_OOPARTS_Soutaiseiriron.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ohayou OOPARTS",
+      "artist": "Soutaisei Riron",
+      "has_synced": true,
+      "path": "select/17_Ohayou_OOPARTS_Soutaisei_Riron.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OOPARTS",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_OOPARTS_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "OOPARTS",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_02_OOPARTS_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "OOPARTS",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_03_OOPARTS_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "OOPARTS",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_04_OOPARTS_羊文学.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "OOPARTS (Tour 2023 “if i were an angel,”)",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_05_OOPARTS_(Tour_2023_“if_i_were_an_angel,”)_羊文学.txt"
+    }
+  ]
+}
